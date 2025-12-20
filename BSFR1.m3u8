@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+https://api-proxad.dc2.oqee.net/playlist/v1/live/966/1/live.mpd
