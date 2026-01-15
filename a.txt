@@ -180,9 +180,6 @@ http://dutatv.siar.us/dutatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZv5Dy7sOu2_nM7QADKY9IpjqMKXkTIIikZCj6-rjJtQ&s" group-title="DAERAH",FICOM TV
 #http://v3.siar.us/ficomchannel/live/playlist.m3u8
 
-#EXTINF:-1 group-title="DAERAH" tvg-id="" tvg-url="http://bit.ly/JejeVisionEPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB3EM-5RBWcPoyEOnpEtsbdwCbDglpzJ_kPiJfmP3T4w&s=10",JITV
-https://shorturl.at/nUOA2
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFZXm0_iP3NoybdHcOSXrYuia3cniO9mif3kGHKIBWhQ&s=10" group-title="DAERAH",Salira TV
 #EXTVLCOPT:http-referrer=http://tv.garden/
 http://live.salira.tv/p/3870/hybrid/play.m3u8
@@ -428,13 +425,13 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:ip
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",MUSIC ENAK 1 (Ga Support PC)
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",MUSIC ENAK 1
 http://tv.casindo.org/hls/17/17.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",MUSIC ENAK 2 (Ga Support PC)
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",MUSIC ENAK 2
 http://tv.casindo.org/hls/18/18.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",MUSIC ENAK 3 (Ga Support PC)
+#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://i.ibb.co.com/WWF09rw6/Chat-GPT-Image-2-Jan-2026-17-04-38.png",MUSIC ENAK 3
 http://tv.casindo.org/hls/13/13.m3u8
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://bit.ly/RtmEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJNVbxt4XtGPzLAumjr7aOKRMdE2-5GUZC6qR3lGpQiA&s=10" group-title="TV Malaysia 🇲🇾",TV OKEY
@@ -1161,6 +1158,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png",WOWOW Prime  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
 
 
 
