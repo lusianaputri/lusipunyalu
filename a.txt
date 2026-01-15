@@ -298,7 +298,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://images.indihometv.com/images/channels/image_ch_aniplus.png",Aniplus
-https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
+http://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
 
 #EXTINF:-1 group-title="Movies & Entertainment" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBO
@@ -1165,6 +1165,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 group-title="TV JEPANG" tvg-id="wowowprime" tvg-logo="http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png",WOWOW Prime  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+
 
 
 
